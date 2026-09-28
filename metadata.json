@@ -1,0 +1,6 @@
+{
+  "name": "KuroAnime - Anime Watchlist & Tracker",
+  "description": "A responsive, lightweight Anime Watchlist web app powered by AniList. Track your anime progress, personal ratings, and seasonal discoveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
